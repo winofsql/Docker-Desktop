@@ -11,3 +11,5 @@
 ```
 C:\Program Files\Docker\Docker\resources\bin
 ```
+
+![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/2b17df72-b42d-4cd7-92ca-fa4539634476)
