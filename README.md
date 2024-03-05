@@ -13,3 +13,6 @@ C:\Program Files\Docker\Docker\resources\bin
 ```
 
 ![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/2b17df72-b42d-4cd7-92ca-fa4539634476)
+
+### Xampp に合わせて
+![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/bb5a023b-6297-4d45-ad4a-b62a4d1ab878)
