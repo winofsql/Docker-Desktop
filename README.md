@@ -6,3 +6,8 @@
 ```
 "C:\Program Files\Docker\Docker\Docker Desktop.exe"
 ```
+
+### PATH 環境変数
+```
+C:\Program Files\Docker\Docker\resources\bin
+```
