@@ -21,3 +21,10 @@ C:\Program Files\Docker\Docker\resources\bin
 ```
 docker pull php:8.2.12
 ```
+
+### MySQL は適当に以下を実行したらインストールされた
+```
+docker run -e MYSQL_ROOT_PASSWORD=password mysql
+```
+
+### 実際のコンテナ時に MYSQL_ROOT_PASSWORD 変数に対して password
