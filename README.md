@@ -41,7 +41,7 @@ docker run -e MYSQL_ROOT_PASSWORD=password mysql
 
 ![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/dbb1c702-2f08-477e-943d-acfbebb64206)
 
-### MySQL の キャラクタセット設定
+### MariaDB の キャラクタセット設定
 ![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/ba1d640d-3c9e-4eb4-a0fd-0c81251f7520)
 
 ※ 設定してからデータベースを作成\
