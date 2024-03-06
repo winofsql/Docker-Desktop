@@ -46,4 +46,7 @@ docker run -e MYSQL_ROOT_PASSWORD=password mysql
 
 ※ 設定してからデータベースを作成\
 ![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/644afa9a-e9fb-4607-b017-d4434758a0b6)
-
+```
+character-set-server=utf8mb4
+collation-server=utf8mb4_general_ci
+```
