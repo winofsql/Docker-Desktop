@@ -50,3 +50,8 @@ docker run -e MYSQL_ROOT_PASSWORD=password mysql
 character-set-server=utf8mb4
 collation-server=utf8mb4_general_ci
 ```
+
+
+```
+wsl -l -v
+```
