@@ -51,7 +51,11 @@ character-set-server=utf8mb4
 collation-server=utf8mb4_general_ci
 ```
 
-
+### WSL
 ```
 wsl -l -v
 ```
+![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/7368d740-75be-4216-bead-b2cc28444e87)
+
+![image](https://github.com/winofsql/Docker-Desktop/assets/1501327/8e1dc2d7-2cee-44cb-9470-48cc7b22d739)
+
